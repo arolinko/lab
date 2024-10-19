@@ -1,0 +1,13 @@
+{
+  "name": "hello-world-app",
+  "version": "1.0.0",
+  "description": "A simple Node.js app that prints Hello, World!",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^10.0.0"
+  }
+}
