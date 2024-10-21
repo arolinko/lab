@@ -1,0 +1,17 @@
+client_id          = "a577dcf5-7b69-4398-84ff-3054f60df569"
+client_secret      = "I_58Q~cAYQRaUZ936qSS5Ju-mPrwhGBvXPKFRbaq"
+principal_id       = "28f83bea-c64a-45d4-b031-e04157d7e625"
+subscription_id    = "466ce244-cec5-4987-824d-35491604a27c"
+tenant_id          = "e55a577c-2297-4fea-837a-a8f7c94ca84d"
+resource_group_name = "aks-resource-group"
+location            = "East US 2"
+aks_cluster_name    = "LabCluster"
+dns_prefix          = "myakscluster"
+node_count          = 1
+vm_size             = "Standard_DS2_v2"
+nginx_ingress_ip_name = "nginx-ingress-ip"
+# VNet settings
+vnet_name              = "aks-vnet"
+vnet_address_space     = "10.1.0.0/16"
+subnet_name            = "aks-subnet"
+subnet_address_prefix  = "10.1.1.0/24"
