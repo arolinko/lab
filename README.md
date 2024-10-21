@@ -12,6 +12,7 @@ This project demonstrates a simple Node.js application that prints "Hello, World
 - [Running the Docker Container](#run-the-docker-container)
 - [GitHub Actions YAML](#github-actions-yaml)
 - [Steps to Deploy Terraform ](#steps-to-deploy-terraform)
+- [Install Nginx INgress Controller](#install-nginx-iNgress-controller)
 
 ---
 
